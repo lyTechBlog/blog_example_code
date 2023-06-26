@@ -85,6 +85,9 @@ int testMultiThread(int thread_num) {
 
 
 int main() {
+    cout << "<< Test single thread >>\n";
     testMultiThread(1);
+
+    cout << "\n<< Test 10 threads >>\n";
     testMultiThread(10);
 }
