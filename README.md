@@ -1,1 +1,1 @@
-为阅读方便，各个case的代码存于对应分支
+执行build.sh，然后执行test_bin
